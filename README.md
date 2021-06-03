@@ -1,7 +1,7 @@
 # UBAtoPRO
 784 為 102 學年至今曾打過 UBA 但已離開之球員的人數，而其中只有 65 人能進軍職業(P+LEAGUE、SBL)，比例約為 8.3%。
 
-![alt text](https://wowsight.tw/wp-content/uploads/2019/03/193059.jpg)
+![alt text](https://s.yimg.com/ny/api/res/1.2/1ROn65zb7xfdTxWASfU70g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTUzOS41Mg--/https://s.yimg.com/uu/api/res/1.2/KtmwsVcKX52bnSgwPHpHyQ--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/ko/hjsportstw_280/3a4d8223740c281fd950daed10111ca4)
 
 ## _non_playing_uba_players
 * 變數為 `start_year` 以及 `end_year`，分別為欲查詢之起始學年以及結束年份。
